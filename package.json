@@ -15,7 +15,7 @@
   "author": "Tomasz Nejman <nej.man@interia.pl>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tonejman/goit-js-hw-08.git/issues"
+    "url": "https://github.com/tonejman/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.19.0",
